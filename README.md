@@ -15,4 +15,4 @@ We can use an arduino ethernet shield to provide predictions from a prediction s
 
 ## Arduino micro connection map
 
-![alt arduino micro connection map](https://www.google.com.ar/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi0mJXOhaPXAhWHEpAKHfOdDOUQjRwIBw&url=http%3A%2F%2Fsimhq.com%2Fforum%2Fubbthreads.php%2Ftopics%2F3899105%2Fall%2FMMJoy_-_Build_your_own_USB_con&psig=AOvVaw0vz2yutU4kj5V9hNtdPgx4&ust=1509820415811366)
+![alt arduino micro connection map](http://simhq.com/forum/files/usergals/2014/08/full-37484-85089-pins_arduinomicro.png)
