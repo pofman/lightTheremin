@@ -1,17 +1,14 @@
-# Arduino Ball 8
+# Arduino Theremin with phototransistor and temperature sensor
 
 ## Intro
 
-Ball 8 project uses an arduino UNO to simulate a ball 8 prediction. For this you will require
-* Arduino UNO
-* Crystal Liquid scree
-* Tilt sensor
+Theremin project uses an arduino UNO / micro to play tones based on temperature and light level measured by the phototransistor.
+For this you will require
+* Arduino UNO / micro
+* Phototransistor
+* Temperature sensor
 * 10Kohm resistor
-* 220 ohm resistor
-* Potenciomenter (to adjust screen contrast)
-
-Optional 
-We can use an arduino ethernet shield to provide predictions from a prediction server
+* Piezo (to play the notes)
 
 ## Arduino micro connection map
 
